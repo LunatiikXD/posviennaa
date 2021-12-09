@@ -1,0 +1,5 @@
+prismOS Vienna build 1300
+Kernel Version: 6
+Build Revision Number: 23
+Version status: compiled in 2022-Q1 
+Full build string: 1300.posvienna.6.23.22Q1
